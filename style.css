@@ -1,0 +1,17 @@
+body{
+color: gray;
+background: lightblue
+
+}
+header{
+    color:rgb(50, 16, 245);
+    border-bottom: solid 8px white
+}
+
+section{
+background-color:cyan;
+padding-top: 88px;
+padding-bottom: 88px;
+display: flex;
+justify-content: center;
+}
